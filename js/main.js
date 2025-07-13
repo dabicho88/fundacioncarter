@@ -1,4 +1,5 @@
-const URL = 'js/catalogofstreetdogs.json';
+const URL = 'https://github.com/dabicho88/fundacioncarter/blob/main/js/catalogofstreetdogs.json';
+//const URL = 'js/catalogofstreetdogs.json';
 const contenedorPrincipal = document.querySelector('.tuSeleccion');
 
 
@@ -8,6 +9,12 @@ function comienzaPeticion(){
         .then((losDatos) => {
             generaFichas(losDatos);
         });
+}
+
+function generaFormulario(corazon){
+    corazon.addEventListener(() => {
+        console.log(corazon.parentNode);
+    });
 }
 
 function generaFichas(allData){
@@ -27,6 +34,7 @@ function generaFichas(allData){
                 <div class="heart">♥</div>
             </div>
         `;
+
         contenedorPrincipal.insertAdjacentElement('beforeend', everycard);
     });
 }
