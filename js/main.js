@@ -16,7 +16,7 @@ function generaFichas(allData){
         const everycard = document.createElement('div');
         everycard.classList.add('everycard');  
         everycard.innerHTML = `            
-            <div class="picCard"><span class="outfit-2">${oneDog.nombre}</span> <img src="img/carter${oneDog.color == 'blanco' ? 'White' : (oneDog.color == 'negro' ? 'Black' : (oneDog.color == 'miel' ? 'Beige' : (oneDog.color == 'mixto' ? 'Mixto' : 'noexiste')))}${del1al4}.jpg"> </div>
+            <div class="picCard"><span class="outfit-2">${oneDog.nombre}</span> <img src="img/carter${oneDog.color == 'Blanco' ? 'White' : (oneDog.color == 'Negro' ? 'Black' : (oneDog.color == 'Miel' ? 'Beige' : (oneDog.color == 'Mixto' ? 'Mixto' : 'noexiste')))}${del1al4}.jpg"> </div>
             <div class="vueltaCard">
                 <div class="bulletCard">Mi nombre es: <span class="titleCard">${oneDog.nombre}</span></div>
                 <div class="bulletCard">Tamaño: <span class="titleCard">${oneDog.size}</span></div>
