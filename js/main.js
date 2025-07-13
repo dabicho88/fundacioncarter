@@ -1,5 +1,5 @@
-const URL = 'https://github.com/dabicho88/fundacioncarter/blob/main/js/catalogofstreetdogs.json';
-//const URL = 'js/catalogofstreetdogs.json';
+//const URL = 'https://github.com/dabicho88/fundacioncarter/blob/main/js/catalogofstreetdogs.json';
+const URL = 'js/catalogofstreetdogs.json';
 const contenedorPrincipal = document.querySelector('.tuSeleccion');
 
 
