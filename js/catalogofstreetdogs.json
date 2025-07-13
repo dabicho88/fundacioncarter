@@ -5,1039 +5,1039 @@
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 4,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Max",
     "size": "Grande",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Bella",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 2,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 2, 
   },
   {
     "nombre": "Rocky",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 3,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 3, 
   },
   {
     "nombre": "Daisy",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 1,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 1, 
   },
   {
     "nombre": "Thor",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 6, 
   },
   {
     "nombre": "Lola",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Bruno",
     "size": "Grande",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 7,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 7, 
   },
   {
     "nombre": "Coco",
     "size": "Pequeño",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 2,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 2, 
   },
   {
     "nombre": "Mia",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 3, 
   },
   {
     "nombre": "Rex",
     "size": "Grande",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Lucy",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 1, 
   },
   {
     "nombre": "Toby",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 4, 
   },
   {
     "nombre": "Molly",
     "size": "Pequeño",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 2, 
   },
   {
     "nombre": "Zeus",
     "size": "Grande",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 6, 
   },
   {
     "nombre": "Chloe",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 3, 
   },
   {
     "nombre": "Duke",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 5, 
   },
   {
     "nombre": "Sophie",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 1, 
   },
   {
     "nombre": "Bear",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Zoe",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 3,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 3, 
   },
   {
     "nombre": "Oscar",
     "size": "Pequeño",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 2,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 2, 
   },
   {
     "nombre": "Ruby",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Charlie",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Lily",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 1, 
   },
   {
     "nombre": "Cooper",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 3, 
   },
   {
     "nombre": "Sadie",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 2, 
   },
   {
     "nombre": "Milo",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 6, 
   },
   {
     "nombre": "Roxy",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 4, 
   },
   {
     "nombre": "Jack",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 5, 
   },
   {
     "nombre": "Bailey",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 1, 
   },
   {
     "nombre": "Teddy",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 3, 
   },
   {
     "nombre": "Stella",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 2, 
   },
   {
     "nombre": "Leo",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 4,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 4, 
   },
   {
     "nombre": "Maggie",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 3, 
   },
   {
     "nombre": "Bentley",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 5, 
   },
   {
     "nombre": "Rosie",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 1, 
   },
   {
     "nombre": "Winston",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Gigi",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 2, 
   },
   {
     "nombre": "Murphy",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 6, 
   },
   {
     "nombre": "Penny",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 3, 
   },
   {
     "nombre": "Simba",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 5, 
   },
   {
     "nombre": "Abby",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 1, 
   },
   {
     "nombre": "Louie",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Piper",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 2, 
   },
   {
     "nombre": "Gunner",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 3,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 3, 
   },
   {
     "nombre": "Harley",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Loki",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 4,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 4, 
   },
   {
     "nombre": "Nala",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 1, 
   },
   {
     "nombre": "Oliver",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 3, 
   },
   {
     "nombre": "Pepper",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "MonterreyCDMX"
+    "ciudad": "MonterreyCDMX",
+    "edad": 2, 
   },
   {
     "nombre": "Rusty",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 6, 
   },
   {
     "nombre": "Willow",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Apollo",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Hazel",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 1, 
   },
   {
     "nombre": "Sammy",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 3, 
   },
   {
     "nombre": "Lulu",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 2, 
   },
   {
     "nombre": "Bandit",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 4,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 4, 
   },
   {
     "nombre": "Minnie",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 3, 
   },
   {
     "nombre": "King",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 5, 
   },
   {
     "nombre": "Dixie",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 1, 
   },
   {
     "nombre": "Gizmo",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Sugar",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 2, 
   },
   {
     "nombre": "Ace",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 6, 
   },
   {
     "nombre": "Mocha",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 3, 
   },
   {
     "nombre": "Shadow",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 5, 
   },
   {
     "nombre": "Cinnamon",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "MonterreyCDMX"
+    "ciudad": "MonterreyCDMX",
+    "edad": 1, 
   },
   {
     "nombre": "Ranger",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 4, 
   },
   {
     "nombre": "Pebbles",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 2, 
   },
   {
     "nombre": "Thor",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 3,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 3, 
   },
   {
     "nombre": "Dolly",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 5,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 5, 
   },
   {
     "nombre": "Brutus",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 4,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Honey",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 1, 
   },
   {
     "nombre": "Spike",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 3, 
   },
   {
     "nombre": "Angel",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "MonterreyCDMX"
+    "ciudad": "MonterreyCDMX",
+    "edad": 2, 
   },
   {
     "nombre": "Rambo",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 6, 
   },
   {
     "nombre": "Trixie",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Vader",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Biscuit",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 1, 
   },
   {
     "nombre": "Maverick",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 3, 
   },
   {
     "nombre": "Cupcake",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 2, 
   },
   {
     "nombre": "Hercules",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Pumpkin",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 3, 
   },
   {
     "nombre": "Zeus",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 5, 
   },
   {
     "nombre": "Muffin",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 1, 
   },
   {
     "nombre": "Rex",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "MonterreyCDMX"
+    "ciudad": "MonterreyCDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Snowball",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 2, 
   },
   {
     "nombre": "Tank",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 6, 
   },
   {
     "nombre": "Buttercup",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 3, 
   },
   {
     "nombre": "Midnight",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 5, 
   },
   {
     "nombre": "Peaches",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 1, 
   },
   {
     "nombre": "Buster",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Caramel",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 2, 
   },
   {
     "nombre": "Jax",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 3,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 3, 
   },
   {
     "nombre": "Daisy",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Oreo",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 4,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 4, 
   },
   {
     "nombre": "Poppy",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 1, 
   },
   {
     "nombre": "Rocky",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 3, 
   },
   {
     "nombre": "Blizzard",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 2, 
   },
   {
     "nombre": "Chief",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 6, 
   },
   {
     "nombre": "Toffee",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Onyx",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 5, 
   },
   {
     "nombre": "Cotton",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 1, 
   },
   {
     "nombre": "Marley",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 3, 
   },
   {
     "nombre": "Sunny",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 2, 
   },
   {
     "nombre": "Viking",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 4,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Pearl",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 5,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 5, 
   },
   {
     "nombre": "Domino",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 4,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 4, 
   },
   {
     "nombre": "Honey",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 1, 
   },
   {
     "nombre": "Rufus",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 3, 
   },
   {
     "nombre": "Coconut",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 2, 
   },
   {
     "nombre": "Titan",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 6, 
   },
   {
     "nombre": "Amber",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Raven",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Marshmallow",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 1, 
   },
   {
     "nombre": "Samson",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 3, 
   },
   {
     "nombre": "Goldie",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 2, 
   },
   {
     "nombre": "Bear",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 4,
-    "ciudad": "MonterreyCDMX"
+    "ciudad": "MonterreyCDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Ivory",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 5,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 5, 
   },
   {
     "nombre": "Smoky",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Largo",
-    "edad": 4,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 4, 
   },
   {
     "nombre": "Butterscotch",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 1, 
   },
   {
     "nombre": "Odin",
     "size": "Mediano",
     "color": "Negro",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 3, 
   },
   {
     "nombre": "Vanilla",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 2, 
   },
   {
     "nombre": "Brutus",
     "size": "Grande",
     "color": "Mixto",
     "pelaje": "Corto",
-    "edad": 6,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 6, 
   },
   {
     "nombre": "Maple",
     "size": "Mediano",
     "color": "Miel",
     "pelaje": "Rizado",
-    "edad": 4,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 4, 
   },
   {
     "nombre": "Noir",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Largo",
-    "edad": 5,
-    "ciudad": "Monterrey"
+    "ciudad": "Monterrey",
+    "edad": 5, 
   },
   {
     "nombre": "Sugar",
     "size": "Pequeño",
     "color": "Blanco",
     "pelaje": "Corto",
-    "edad": 1,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 1, 
   },
   {
     "nombre": "Copper",
     "size": "Mediano",
     "color": "Mixto",
     "pelaje": "Rizado",
-    "edad": 3,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 3, 
   },
   {
     "nombre": "Honey Bear",
     "size": "Pequeño",
     "color": "Miel",
     "pelaje": "Largo",
-    "edad": 2,
-    "ciudad": "CDMX"
+    "ciudad": "CDMX",
+    "edad": 2, 
   },
   {
     "nombre": "Jet",
     "size": "Grande",
     "color": "Negro",
     "pelaje": "Corto",
-    "edad": 4,
-    "ciudad": "Guadalajara"
+    "ciudad": "Guadalajara",
+    "edad": 4, 
   },
   {
     "nombre": "Casper",
     "size": "Mediano",
     "color": "Blanco",
     "pelaje": "Rizado",
-    "edad": 5,
-    "ciudad": "Estado de México"
+    "ciudad": "Estado de México",
+    "edad": 5, 
   }
 ]

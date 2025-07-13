@@ -31,5 +31,7 @@ function generaFichas(allData){
     });
 }
 
+
+
 comienzaPeticion();
 
