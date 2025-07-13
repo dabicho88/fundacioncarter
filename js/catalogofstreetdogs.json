@@ -2,910 +2,910 @@
 [
   {
     "nombre": "Luna",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "largo",
     "edad": 4
   },
   {
     "nombre": "Max",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "miel",
     "pelaje": "corto",
     "edad": 5
   },
   {
     "nombre": "Bella",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 2
   },
   {
     "nombre": "Rocky",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 3
   },
   {
     "nombre": "Daisy",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 1
   },
   {
     "nombre": "Thor",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Lola",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Bruno",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "miel",
     "pelaje": "largo",
     "edad": 7
   },
   {
     "nombre": "Coco",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "negro",
     "pelaje": "corto",
     "edad": 2
   },
   {
     "nombre": "Mia",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Rex",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Lucy",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Toby",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Molly",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Zeus",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Chloe",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Duke",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Sophie",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Bear",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Zoe",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "largo",
     "edad": 3
   },
   {
     "nombre": "Oscar",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "negro",
     "pelaje": "corto",
     "edad": 2
   },
   {
     "nombre": "Ruby",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Charlie",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Lily",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Cooper",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Sadie",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Milo",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Roxy",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Jack",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Bailey",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Teddy",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Stella",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Leo",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 4
   },
   {
     "nombre": "Maggie",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Bentley",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Rosie",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Winston",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Gigi",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Murphy",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Penny",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Simba",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Abby",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Louie",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Piper",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Gunner",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 3
   },
   {
     "nombre": "Harley",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 5
   },
   {
     "nombre": "Loki",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 4
   },
   {
     "nombre": "Nala",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Oliver",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Pepper",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Rusty",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Willow",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Apollo",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Hazel",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Sammy",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Lulu",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Bandit",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 4
   },
   {
     "nombre": "Minnie",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "King",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Dixie",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Gizmo",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Sugar",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Ace",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Mocha",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Shadow",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Cinnamon",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Ranger",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Pebbles",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Thor",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 3
   },
   {
     "nombre": "Dolly",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 5
   },
   {
     "nombre": "Brutus",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 4
   },
   {
     "nombre": "Honey",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Spike",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Angel",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Rambo",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Trixie",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Vader",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Biscuit",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Maverick",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Cupcake",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Hercules",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 4
   },
   {
     "nombre": "Pumpkin",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Zeus",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Muffin",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Rex",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Snowball",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Tank",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Buttercup",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Midnight",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Peaches",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Buster",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Caramel",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Jax",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 3
   },
   {
     "nombre": "Daisy",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 5
   },
   {
     "nombre": "Oreo",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 4
   },
   {
     "nombre": "Poppy",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Rocky",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Blizzard",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Chief",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Toffee",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Onyx",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Cotton",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Marley",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Sunny",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Viking",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 4
   },
   {
     "nombre": "Pearl",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 5
   },
   {
     "nombre": "Domino",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 4
   },
   {
     "nombre": "Honey",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Rufus",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Coconut",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Titan",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Amber",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Raven",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Marshmallow",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Samson",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Goldie",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Bear",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 4
   },
   {
     "nombre": "Ivory",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 5
   },
   {
     "nombre": "Smoky",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "largo",
     "edad": 4
   },
   {
     "nombre": "Butterscotch",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Odin",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "negro",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Vanilla",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Brutus",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "mixto",
     "pelaje": "corto",
     "edad": 6
   },
   {
     "nombre": "Maple",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "miel",
     "pelaje": "rizado",
     "edad": 4
   },
   {
     "nombre": "Noir",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "largo",
     "edad": 5
   },
   {
     "nombre": "Sugar",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "blanco",
     "pelaje": "corto",
     "edad": 1
   },
   {
     "nombre": "Copper",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "mixto",
     "pelaje": "rizado",
     "edad": 3
   },
   {
     "nombre": "Honey Bear",
-    "tamaño": "pequeño",
+    "size": "pequeño",
     "color": "miel",
     "pelaje": "largo",
     "edad": 2
   },
   {
     "nombre": "Jet",
-    "tamaño": "grande",
+    "size": "grande",
     "color": "negro",
     "pelaje": "corto",
     "edad": 4
   },
   {
     "nombre": "Casper",
-    "tamaño": "mediano",
+    "size": "mediano",
     "color": "blanco",
     "pelaje": "rizado",
     "edad": 5
