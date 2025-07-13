@@ -1,53 +1,83 @@
+/*GENERALS*/
 body{
   width:100%;
   height: auto;
   padding: 0;
   margin: 0;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-}
-.ubuntu-regular {
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.ubuntu-bold {
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-.main{
-  background: #fff;
   position: relative;
   width: 100%;
-  height: 100%;
-  z-index: 0;
-  overflow: hidden;
-  min-height: 650px;
+  height:auto;
 }
-.cabezal{
-  background-color: #5147cbd6;
+.outfit-1 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.outfit-2 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+span.schoolbell-regular {
+  font-family: "Schoolbell", cursive;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  color: #af6969;
+  font-size: 48px;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  transform: rotate(-15deg);
+}
+.main{
+  background: #db7527;
+  position: relative;
   width: 100%;
   height: auto;
-  margin: 0px 0 0 0;
-  padding: 15px 0;
+  z-index: 0;
+  overflow: hidden;
+}
+/*GENERALS*/
+/*HEAD*/
+.cabezal{
+  background-color: #fff;
+  width: 100%;
+  max-width: 1100px;
+  height: auto;
+  margin:auto;
+  padding: 15px;
+  box-sizing: border-box;
   position: relative;
   z-index: 1;
   backdrop-filter: blur(10px);
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  border-radius: 0 0 20px 20px;
 }
 .titleSecundario{
-  display: block;
+  display: flex;
+  justify-content: flex-end;
   width: 95%;
   height: auto;
-  font-size: 30px;
   text-align: center;
-  color: #fff;
+  color: #000;
   margin: 0px auto;
   padding: 0;
   box-sizing: border-box;
   z-index: 1;
   position: relative;
+}
+.partmenu{
+  font-size: 23px;
+  line-height: 25px;
+  margin: 0 12px 0 0;
 }
 .titlePrimario{
   display: block;
@@ -55,7 +85,7 @@ body{
   height: auto;
   font-size: 40px;
   text-align: center;
-  color: #fff;
+  color: #000;
   margin: 5px auto;
   padding: 0;
   box-sizing: border-box;
@@ -68,9 +98,10 @@ body{
   height: auto;
   font-size: 20px;
   text-align: center;
-  color: #fff;
-  margin: 0 auto;
+  color: #000;
+  margin: 0 auto 50px auto;
   padding: 0;
+  font-weight: 200;
   box-sizing: border-box;
   z-index: 1;
   position: relative;
@@ -82,7 +113,151 @@ body{
   right: 0;
   left:0;
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 1200px;
   width: 100%;
   z-index: -1;
+  filter: blur(5px);
 }
+/*CARD*/
+.tuSeleccion{
+  display: flex;
+  width: 100%;
+  max-width: 1100px;
+  margin: 100px auto;
+  box-sizing: border-box;
+  padding: 60px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+  align-items: flex-start;
+  border-radius: 20px 20px 0 0;
+  background-color: #fdfdfd;
+}
+.everycard{
+  display: block;
+  width: 32%;
+  margin: 10px 0;
+  padding:0px;
+  position: relative;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 20px -14px #000;
+}
+.picCard{
+  box-sizing: border-box;
+  padding: 8px 8px 80px 8px;
+  background-color: #fff;
+  transform: perspective(800px) rotateY(00deg);
+  backface-visibility: hidden;
+  transition:linear .5s;
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+.picCard span{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 26px;
+  font-style: normal;
+}
+.everycard:hover .picCard{
+  transform: perspective(800px) rotateY(180deg);
+}
+.picCard img{
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.vueltaCard{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  transform: perspective(800px) rotateY(180deg);
+  backface-visibility: hidden;
+  transition: linear .5s;
+  background-color: #ffffffc2;
+  backdrop-filter: blur(6px);
+  box-sizing: border-box;
+  padding: 25px;
+}
+.everycard:hover .vueltaCard{
+  transform: perspective(800px) rotateY(360deg);
+}
+.titleCard{
+  display: block;
+  width: 100%;
+  height: auto;
+  font-size: 22px;
+  line-height: 25px;
+  color: #000;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.bulletCard{
+  display: block;
+  width: 100%;
+  height: auto;
+  font-size: 19px;
+  line-height: 22px;
+  color: #000;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  margin: 8px 0 0 0;
+}
+.heart{
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  color: #a9a9a9;
+  cursor: pointer;
+  transition:linear .15s;
+}
+.heart:hover{
+  scale: 1.5;
+}
+/*CARD*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
