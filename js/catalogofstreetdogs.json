@@ -6,7 +6,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 4,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Max",
@@ -14,7 +14,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Bella",
@@ -22,7 +22,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 2,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Rocky",
@@ -30,7 +30,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 3,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Daisy",
@@ -38,7 +38,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 1,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Thor",
@@ -46,7 +46,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Lola",
@@ -54,7 +54,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Bruno",
@@ -62,7 +62,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 7,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Coco",
@@ -70,7 +70,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 2,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Mia",
@@ -78,7 +78,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Rex",
@@ -86,7 +86,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Lucy",
@@ -94,7 +94,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Toby",
@@ -102,7 +102,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Molly",
@@ -110,7 +110,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 2,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Zeus",
@@ -118,7 +118,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Chloe",
@@ -126,7 +126,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Duke",
@@ -134,7 +134,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Sophie",
@@ -142,7 +142,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Bear",
@@ -150,7 +150,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Zoe",
@@ -158,7 +158,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 3,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Oscar",
@@ -166,7 +166,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 2,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Ruby",
@@ -174,7 +174,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Charlie",
@@ -182,7 +182,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Lily",
@@ -190,7 +190,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Cooper",
@@ -198,7 +198,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Sadie",
@@ -206,7 +206,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Milo",
@@ -214,7 +214,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Roxy",
@@ -222,7 +222,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Jack",
@@ -230,7 +230,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Bailey",
@@ -238,7 +238,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Teddy",
@@ -246,7 +246,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Stella",
@@ -254,7 +254,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Leo",
@@ -262,7 +262,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 4,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Maggie",
@@ -270,7 +270,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Bentley",
@@ -278,7 +278,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Rosie",
@@ -286,7 +286,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Winston",
@@ -294,7 +294,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Gigi",
@@ -302,7 +302,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Murphy",
@@ -310,7 +310,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Penny",
@@ -318,7 +318,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Simba",
@@ -326,7 +326,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Abby",
@@ -334,7 +334,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Louie",
@@ -342,7 +342,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Piper",
@@ -350,7 +350,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Gunner",
@@ -358,7 +358,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 3,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Harley",
@@ -366,7 +366,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Loki",
@@ -374,7 +374,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 4,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Nala",
@@ -382,7 +382,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Oliver",
@@ -390,7 +390,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Pepper",
@@ -398,7 +398,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad": Mon"MonterreyCDMX"
+    "ciudad": "MonterreyCDMX"
   },
   {
     "nombre": "Rusty",
@@ -406,7 +406,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Willow",
@@ -414,7 +414,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Apollo",
@@ -422,7 +422,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Hazel",
@@ -430,7 +430,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Sammy",
@@ -438,7 +438,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Lulu",
@@ -446,7 +446,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Bandit",
@@ -454,7 +454,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 4,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Minnie",
@@ -462,7 +462,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "King",
@@ -470,7 +470,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 5,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Dixie",
@@ -478,7 +478,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Gizmo",
@@ -486,7 +486,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Sugar",
@@ -494,7 +494,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Ace",
@@ -502,7 +502,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Mocha",
@@ -510,7 +510,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Shadow",
@@ -518,7 +518,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Cinnamon",
@@ -526,7 +526,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": Mon"MonterreyCDMX"
+    "ciudad": "MonterreyCDMX"
   },
   {
     "nombre": "Ranger",
@@ -534,7 +534,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Pebbles",
@@ -542,7 +542,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Thor",
@@ -550,7 +550,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 3,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Dolly",
@@ -558,7 +558,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 5,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Brutus",
@@ -566,7 +566,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 4,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Honey",
@@ -574,7 +574,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Spike",
@@ -582,7 +582,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Angel",
@@ -590,7 +590,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad": Mon"MonterreyCDMX"
+    "ciudad": "MonterreyCDMX"
   },
   {
     "nombre": "Rambo",
@@ -598,7 +598,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Trixie",
@@ -606,7 +606,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Vader",
@@ -614,7 +614,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Biscuit",
@@ -622,7 +622,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Maverick",
@@ -630,7 +630,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Cupcake",
@@ -638,7 +638,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Hercules",
@@ -646,7 +646,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Pumpkin",
@@ -654,7 +654,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Zeus",
@@ -662,7 +662,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 5,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Muffin",
@@ -670,7 +670,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Rex",
@@ -678,7 +678,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad": Mon"MonterreyCDMX"
+    "ciudad": "MonterreyCDMX"
   },
   {
     "nombre": "Snowball",
@@ -686,7 +686,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Tank",
@@ -694,7 +694,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Buttercup",
@@ -702,7 +702,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Midnight",
@@ -710,7 +710,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Peaches",
@@ -718,7 +718,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Buster",
@@ -726,7 +726,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Caramel",
@@ -734,7 +734,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Jax",
@@ -742,7 +742,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 3,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Daisy",
@@ -750,7 +750,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Oreo",
@@ -758,7 +758,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 4,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Poppy",
@@ -766,7 +766,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Rocky",
@@ -774,7 +774,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Blizzard",
@@ -782,7 +782,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Chief",
@@ -790,7 +790,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Toffee",
@@ -798,7 +798,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Onyx",
@@ -806,7 +806,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Cotton",
@@ -814,7 +814,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Marley",
@@ -822,7 +822,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Sunny",
@@ -830,7 +830,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Viking",
@@ -838,7 +838,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 4,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Pearl",
@@ -846,7 +846,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 5,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Domino",
@@ -854,7 +854,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 4,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Honey",
@@ -862,7 +862,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Rufus",
@@ -870,7 +870,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Coconut",
@@ -878,7 +878,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Titan",
@@ -886,7 +886,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Amber",
@@ -894,7 +894,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Raven",
@@ -902,7 +902,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Marshmallow",
@@ -910,7 +910,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Samson",
@@ -918,7 +918,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Goldie",
@@ -926,7 +926,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Bear",
@@ -934,7 +934,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 4,
-    "ciudad": Mon"MonterreyCDMX"
+    "ciudad": "MonterreyCDMX"
   },
   {
     "nombre": "Ivory",
@@ -942,7 +942,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 5,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Smoky",
@@ -950,7 +950,7 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "edad": 4,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Butterscotch",
@@ -958,7 +958,7 @@
     "color": "Miel",
     "pelaje": "Corto",
     "edad": 1,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Odin",
@@ -966,7 +966,7 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Vanilla",
@@ -974,7 +974,7 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "edad": 2,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Brutus",
@@ -982,7 +982,7 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "edad": 6,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Maple",
@@ -990,7 +990,7 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "edad": 4,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Noir",
@@ -998,7 +998,7 @@
     "color": "Negro",
     "pelaje": "Largo",
     "edad": 5,
-    "ciudad":"Monterrey"
+    "ciudad": "Monterrey"
   },
   {
     "nombre": "Sugar",
@@ -1006,7 +1006,7 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "edad": 1,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Copper",
@@ -1014,7 +1014,7 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "edad": 3,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   },
   {
     "nombre": "Honey Bear",
@@ -1022,7 +1022,7 @@
     "color": "Miel",
     "pelaje": "Largo",
     "edad": 2,
-    "ciu"CDMX"
+    "ciudad": "CDMX"
   },
   {
     "nombre": "Jet",
@@ -1030,7 +1030,7 @@
     "color": "Negro",
     "pelaje": "Corto",
     "edad": 4,
-    "ciudad": G"Guadalajara"
+    "ciudad": "Guadalajara"
   },
   {
     "nombre": "Casper",
@@ -1038,6 +1038,6 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "edad": 5,
-    "ciudad": Estado"Estado de México"
+    "ciudad": "Estado de México"
   }
 ]
