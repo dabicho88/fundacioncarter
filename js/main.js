@@ -71,8 +71,8 @@ function saveFavorito(corasao){
 }
 
 function leerFavoritos(){
-    for(){
-
+    for(yson=0;yson<localStorage.key.length;yson++){
+        console.log(localStorage.key[yson]);
     }
 }
 
