@@ -223,6 +223,7 @@ span.schoolbell-regular {
   color: #a9a9a9;
   cursor: pointer;
   transition:linear .15s;
+  z-index: 2;
 }
 .heart:hover{
   scale: 1.5;

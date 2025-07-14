@@ -6,7 +6,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Max",
@@ -14,7 +15,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Bella",
@@ -22,7 +24,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Rocky",
@@ -30,7 +33,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterMixto4.jpg"
   },
   {
     "nombre": "Daisy",
@@ -38,7 +42,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige1.jpg"
   },
   {
     "nombre": "Thor",
@@ -46,7 +51,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterBlack1.jpg"
   },
   {
     "nombre": "Lola",
@@ -54,7 +60,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterWhite4.jpg"
   },
   {
     "nombre": "Bruno",
@@ -62,7 +69,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 7 
+    "edad": 7,
+    "foto": "img/carterBeige1.jpg"
   },
   {
     "nombre": "Coco",
@@ -70,7 +78,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "Estado de México",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Mia",
@@ -78,7 +87,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Rex",
@@ -86,7 +96,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Lucy",
@@ -94,7 +105,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Toby",
@@ -102,7 +114,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Molly",
@@ -110,7 +123,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterMixto2.jpg"
   },
   {
     "nombre": "Zeus",
@@ -118,7 +132,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterWhite2.jpg"
   },
   {
     "nombre": "Chloe",
@@ -126,7 +141,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "Guadalajara",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Duke",
@@ -134,7 +150,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Estado de México",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Sophie",
@@ -142,7 +159,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Bear",
@@ -150,7 +168,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Zoe",
@@ -158,7 +177,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Oscar",
@@ -166,7 +186,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Ruby",
@@ -174,7 +195,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterWhite1.jpg"
   },
   {
     "nombre": "Charlie",
@@ -182,7 +204,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterMixto4.jpg"
   },
   {
     "nombre": "Lily",
@@ -190,7 +213,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige1.jpg"
   },
   {
     "nombre": "Cooper",
@@ -198,7 +222,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Sadie",
@@ -206,7 +231,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Milo",
@@ -214,7 +240,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Roxy",
@@ -222,7 +249,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "Guadalajara",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBeige1.jpg"
   },
   {
     "nombre": "Jack",
@@ -230,7 +258,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Estado de México",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Bailey",
@@ -238,7 +267,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite4.jpg"
   },
   {
     "nombre": "Teddy",
@@ -246,7 +276,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Stella",
@@ -254,7 +285,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Leo",
@@ -262,7 +294,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "Estado de México",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Maggie",
@@ -270,7 +303,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterWhite4.jpg"
   },
   {
     "nombre": "Bentley",
@@ -278,7 +312,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Rosie",
@@ -286,7 +321,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Winston",
@@ -294,7 +330,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Gigi",
@@ -302,7 +339,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite2.jpg"
   },
   {
     "nombre": "Murphy",
@@ -310,7 +348,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Penny",
@@ -318,7 +357,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Simba",
@@ -326,7 +366,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Abby",
@@ -334,7 +375,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "Estado de México",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Louie",
@@ -342,7 +384,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Piper",
@@ -350,7 +393,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Gunner",
@@ -358,7 +402,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Harley",
@@ -366,7 +411,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterWhite1.jpg"
   },
   {
     "nombre": "Loki",
@@ -374,7 +420,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto2.jpg"
   },
   {
     "nombre": "Nala",
@@ -382,7 +429,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "Estado de México",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Oliver",
@@ -390,7 +438,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Pepper",
@@ -398,7 +447,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "MonterreyCDMX",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite2.jpg"
   },
   {
     "nombre": "Rusty",
@@ -406,7 +456,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto2.jpg"
   },
   {
     "nombre": "Willow",
@@ -414,7 +465,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Apollo",
@@ -422,7 +474,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Hazel",
@@ -430,7 +483,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite1.jpg"
   },
   {
     "nombre": "Sammy",
@@ -438,7 +492,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterMixto2.jpg"
   },
   {
     "nombre": "Lulu",
@@ -446,7 +501,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige4.jpg"
   },
   {
     "nombre": "Bandit",
@@ -454,7 +510,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack1.jpg"
   },
   {
     "nombre": "Minnie",
@@ -462,7 +519,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterWhite4.jpg"
   },
   {
     "nombre": "King",
@@ -470,7 +528,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Dixie",
@@ -478,7 +537,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige1.jpg"
   },
   {
     "nombre": "Gizmo",
@@ -486,7 +546,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Sugar",
@@ -494,7 +555,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite1.jpg"
   },
   {
     "nombre": "Ace",
@@ -502,7 +564,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Mocha",
@@ -510,7 +573,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Shadow",
@@ -518,7 +582,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Cinnamon",
@@ -526,7 +591,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "MonterreyCDMX",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite2.jpg"
   },
   {
     "nombre": "Ranger",
@@ -534,7 +600,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "Guadalajara",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto2.jpg"
   },
   {
     "nombre": "Pebbles",
@@ -542,7 +609,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige4.jpg"
   },
   {
     "nombre": "Thor",
@@ -550,7 +618,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Dolly",
@@ -558,7 +627,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterWhite4.jpg"
   },
   {
     "nombre": "Brutus",
@@ -566,7 +636,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Honey",
@@ -574,7 +645,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige4.jpg"
   },
   {
     "nombre": "Spike",
@@ -582,7 +654,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Angel",
@@ -590,7 +663,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "MonterreyCDMX",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite1.jpg"
   },
   {
     "nombre": "Rambo",
@@ -598,7 +672,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Trixie",
@@ -606,7 +681,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBeige1.jpg"
   },
   {
     "nombre": "Vader",
@@ -614,7 +690,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Biscuit",
@@ -622,7 +699,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Maverick",
@@ -630,7 +708,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Cupcake",
@@ -638,7 +717,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige4.jpg"
   },
   {
     "nombre": "Hercules",
@@ -646,7 +726,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Pumpkin",
@@ -654,7 +735,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterWhite4.jpg"
   },
   {
     "nombre": "Zeus",
@@ -662,7 +744,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterMixto4.jpg"
   },
   {
     "nombre": "Muffin",
@@ -670,7 +753,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Rex",
@@ -678,7 +762,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "MonterreyCDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Snowball",
@@ -686,7 +771,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Tank",
@@ -694,7 +780,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Monterrey",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto4.jpg"
   },
   {
     "nombre": "Buttercup",
@@ -702,7 +789,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "Guadalajara",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBeige1.jpg"
   },
   {
     "nombre": "Midnight",
@@ -710,7 +798,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Estado de México",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Peaches",
@@ -718,7 +807,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite2.jpg"
   },
   {
     "nombre": "Buster",
@@ -726,7 +816,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Caramel",
@@ -734,7 +825,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Estado de México",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige4.jpg"
   },
   {
     "nombre": "Jax",
@@ -742,7 +834,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack1.jpg"
   },
   {
     "nombre": "Daisy",
@@ -750,7 +843,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Oreo",
@@ -758,7 +852,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Poppy",
@@ -766,7 +861,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "Estado de México",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Rocky",
@@ -774,7 +870,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Blizzard",
@@ -782,7 +879,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite1.jpg"
   },
   {
     "nombre": "Chief",
@@ -790,7 +888,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Toffee",
@@ -798,7 +897,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Onyx",
@@ -806,7 +906,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack4.jpg"
   },
   {
     "nombre": "Cotton",
@@ -814,7 +915,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "Estado de México",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Marley",
@@ -822,7 +924,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterMixto4.jpg"
   },
   {
     "nombre": "Sunny",
@@ -830,7 +933,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Viking",
@@ -838,7 +942,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Pearl",
@@ -846,7 +951,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterWhite1.jpg"
   },
   {
     "nombre": "Domino",
@@ -854,7 +960,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto2.jpg"
   },
   {
     "nombre": "Honey",
@@ -862,7 +969,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Rufus",
@@ -870,7 +978,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Coconut",
@@ -878,7 +987,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite1.jpg"
   },
   {
     "nombre": "Titan",
@@ -886,7 +996,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Estado de México",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Amber",
@@ -894,7 +1005,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Raven",
@@ -902,7 +1014,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Marshmallow",
@@ -910,7 +1023,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Samson",
@@ -918,7 +1032,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Goldie",
@@ -926,7 +1041,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Bear",
@@ -934,7 +1050,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "MonterreyCDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Ivory",
@@ -942,7 +1059,8 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Guadalajara",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterWhite3.jpg"
   },
   {
     "nombre": "Smoky",
@@ -950,7 +1068,8 @@
     "color": "Mixto",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterMixto1.jpg"
   },
   {
     "nombre": "Butterscotch",
@@ -958,7 +1077,8 @@
     "color": "Miel",
     "pelaje": "Corto",
     "ciudad": "CDMX",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterBeige3.jpg"
   },
   {
     "nombre": "Odin",
@@ -966,7 +1086,8 @@
     "color": "Negro",
     "pelaje": "Rizado",
     "ciudad": "Monterrey",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterBlack3.jpg"
   },
   {
     "nombre": "Vanilla",
@@ -974,7 +1095,8 @@
     "color": "Blanco",
     "pelaje": "Largo",
     "ciudad": "Guadalajara",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterWhite4.jpg"
   },
   {
     "nombre": "Brutus",
@@ -982,7 +1104,8 @@
     "color": "Mixto",
     "pelaje": "Corto",
     "ciudad": "Estado de México",
-    "edad": 6 
+    "edad": 6,
+    "foto": "img/carterMixto2.jpg"
   },
   {
     "nombre": "Maple",
@@ -990,7 +1113,8 @@
     "color": "Miel",
     "pelaje": "Rizado",
     "ciudad": "CDMX",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBeige1.jpg"
   },
   {
     "nombre": "Noir",
@@ -998,7 +1122,8 @@
     "color": "Negro",
     "pelaje": "Largo",
     "ciudad": "Monterrey",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterBlack2.jpg"
   },
   {
     "nombre": "Sugar",
@@ -1006,7 +1131,8 @@
     "color": "Blanco",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 1 
+    "edad": 1,
+    "foto": "img/carterWhite2.jpg"
   },
   {
     "nombre": "Copper",
@@ -1014,7 +1140,8 @@
     "color": "Mixto",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 3 
+    "edad": 3,
+    "foto": "img/carterMixto3.jpg"
   },
   {
     "nombre": "Honey Bear",
@@ -1022,7 +1149,8 @@
     "color": "Miel",
     "pelaje": "Largo",
     "ciudad": "CDMX",
-    "edad": 2 
+    "edad": 2,
+    "foto": "img/carterBeige2.jpg"
   },
   {
     "nombre": "Jet",
@@ -1030,7 +1158,8 @@
     "color": "Negro",
     "pelaje": "Corto",
     "ciudad": "Guadalajara",
-    "edad": 4 
+    "edad": 4,
+    "foto": "img/carterBlack1.jpg"
   },
   {
     "nombre": "Casper",
@@ -1038,6 +1167,7 @@
     "color": "Blanco",
     "pelaje": "Rizado",
     "ciudad": "Estado de México",
-    "edad": 5 
+    "edad": 5,
+    "foto": "img/carterWhite3.jpg"
   }
 ]
