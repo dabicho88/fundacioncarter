@@ -91,10 +91,23 @@ span.schoolbell-regular {
   color: #000;
   text-decoration: underline;
 }
+.partmenu img{
+  display: inline-block;
+  width: 22px;
+  height: auto;
+  margin: 0px 4px -4px 0;
+  opacity: .4;
+}
+.partmenu:hover img{
+  opacity: 1;
+}
 .partmenu.here{
   opacity: 1;
   color: #000;
   text-decoration: underline;
+}
+.partmenu.here img{
+  opacity: 1;
 }
 .titlePrimario{
   display: block;
