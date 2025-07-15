@@ -146,7 +146,7 @@ span.schoolbell-regular {
   flex-wrap: wrap;
   justify-content: center;
   align-items: stretch;
-  border-radius: 20px 20px 0 0;
+  border-radius: 20px;
   background-color: #fdfdfd;
 }
 .everycard{
@@ -233,19 +233,22 @@ span.schoolbell-regular {
   position: absolute;
   right: 8px;
   bottom: 8px;
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   font-size: 25px;
-  color: #a9a9a9;
   cursor: pointer;
   transition:linear .15s;
   z-index: 2;
+  background-image: url(../img/heartWhite.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 95%;
 }
 .heart:hover{
   scale: 1.5;
 }
 .heart.actived{
-  color: #000;
+  background-image: url(../img/heartBlack.png);
 }
 /*CARD*/
 /*BIG HEART*/
@@ -264,6 +267,10 @@ span.schoolbell-regular {
     margin: auto;
     opacity: 0;
     z-index: -1;
+    background-image: url(../img/heartBig.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 95%;
 }
 .bigHeart.animaHeart{
     animation-name: animaHeart;
@@ -286,6 +293,36 @@ span.schoolbell-regular {
     z-index: 1;
   }
 
+}
+.emptyFavo{
+  display: block;
+  width: 95%;
+  max-width: 800px;
+  color: #282828;
+  font-size: 20px;
+  line-height: 23px;
+  text-align:center;
+}
+.emptyFavo img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.emptyFavo a,
+.emptyFavo a:visited{
+  display: block;
+  width: 190px;
+  height: auto;
+  padding: 8px;
+  border-radius: 200px;
+  margin: 10px auto;
+  color: #fff;
+  background-color: #000;
+  transition:linear .5s;
+  text-decoration: none;
+}
+.emptyFavo a:hover{
+  opacity: .7;
 }
 /*BIG HEART*/
 @media screen and (max-width:945px){

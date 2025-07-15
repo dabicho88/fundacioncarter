@@ -1,4 +1,3 @@
-//const URL = 'https://dabicho88.github.io/fundacioncarter/js/catalogofstreetdogs.json';
 const URL = 'js/catalogofstreetdogs.json';
 const contenedorPrincipal = document.querySelector('.tuSeleccion');
 let foto;
@@ -37,7 +36,7 @@ function generaFichas(allData){
         everycard.classList.add('everycard'); 
         numHeart++;
         everycard.innerHTML = `   
-            <div class="heart" id="favorito${numHeart}" onclick="saveFavorito(this)">♥</div>         
+            <div class="heart" id="favorito${numHeart}" onclick="saveFavorito(this)"></div>         
             <div class="picCard"><span class="outfit-2">${oneDog.nombre}</span> <img src="${oneDog.foto}"> </div>
             <div class="vueltaCard">
                 <div class="bulletCard">Mi nombre es: <span class="titleCard">${oneDog.nombre}</span></div>

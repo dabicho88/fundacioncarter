@@ -17,15 +17,16 @@ function obtenerStorageFavoritos(){
             <div class="picCard"><span class="outfit-2">${objetoAJson.nombre}</span> <img src="${objetoAJson.foto}"> </div>
             <div class="vueltaCard">
                 <div class="bulletCard">Mi nombre es: <span class="titleCard">${objetoAJson.nombre}</span></div>
-                <div class="bulletCard">Tamaño: <span class="titleCard">${objetoAJson.size}</span></div>
+                <div class="bulletCard">Tamaño: <span class="titleCard">${objetoAJson.tamanno}</span></div>
                 <div class="bulletCard">Color: <span class="titleCard">${objetoAJson.color}</span></div>
                 <div class="bulletCard">Mi pelaje es: <span class="titleCard">${objetoAJson.pelaje}</span></div>
-                <div class="bulletCard">Tengo: <span class="titleCard">${objetoAJson.edad} años</span></div>
+                <div class="bulletCard">Tengo: <span class="titleCard">${objetoAJson.edad} </span></div>
                 <div class="bulletCard">Localidad: <span class="titleCard">${objetoAJson.ciudad}</span></div>
             </div>
         `;  
         contenedorPrincipal.insertAdjacentElement('beforeend', divFavorito);
     }
+    mensajeFavoritosVacio();
 }
 
 
@@ -39,11 +40,15 @@ function eliminarConClick(corasao){
     elpapaEveryCard.parentNode.removeChild(elpapaEveryCard);
 }
 
+
+function mensajeFavoritosVacio(){
+	if(divFavorito == null){
+		contenedorPrincipal.innerHTML += '<div class="emptyFavo outfit-1">No tienes ningún Carter favorito <a href="index.html" class="outfit-2">Ve a enamorarte</a><img src="img/emptyCarter.png"> </div>';
+	}
+}
+
+
 obtenerStorageFavoritos();
-
-
-
-
 
 
 
