@@ -1,5 +1,5 @@
-const URL = 'https://dabicho88.github.io/fundacioncarter/js/catalogofstreetdogs.json';
-//const URL = 'js/catalogofstreetdogs.json';
+//const URL = 'https://dabicho88.github.io/fundacioncarter/js/catalogofstreetdogs.json';
+const URL = 'js/catalogofstreetdogs.json';
 const contenedorPrincipal = document.querySelector('.tuSeleccion');
 let foto;
 let nombre;
