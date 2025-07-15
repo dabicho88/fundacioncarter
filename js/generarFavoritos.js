@@ -38,6 +38,7 @@ function eliminarConClick(corasao){
     chHeart = document.querySelector('#'+ idFavorito);
     elpapaEveryCard = chHeart.parentNode;
     elpapaEveryCard.parentNode.removeChild(elpapaEveryCard);
+    mensajeFavoritosVacio();
 }
 
 
