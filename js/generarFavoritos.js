@@ -26,7 +26,7 @@ function obtenerStorageFavoritos(){
         `;  
         contenedorPrincipal.insertAdjacentElement('beforeend', divFavorito);
     }
-    mensajeFavoritosVacio();
+    mensajeFavoritosVacio(divFavorito);
 }
 
 
@@ -38,12 +38,12 @@ function eliminarConClick(corasao){
     chHeart = document.querySelector('#'+ idFavorito);
     elpapaEveryCard = chHeart.parentNode;
     elpapaEveryCard.parentNode.removeChild(elpapaEveryCard);
-    mensajeFavoritosVacio();
+    mensajeFavoritosVacio(elpapaEveryCard);
 }
 
 
-function mensajeFavoritosVacio(){
-	if(divFavorito == null){
+function mensajeFavoritosVacio(elEvery){
+	if(elEvery == null){
 		contenedorPrincipal.innerHTML += '<div class="emptyFavo outfit-1">No tienes ningún Carter favorito <a href="index.html" class="outfit-2">Ve a enamorarte</a><img src="img/emptyCarter.png"> </div>';
 	}
 }
