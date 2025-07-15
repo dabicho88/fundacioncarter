@@ -35,7 +35,8 @@ span.schoolbell-regular {
   transform: rotate(-15deg);
 }
 .main{
-  background: #e0c0b8;
+  background: #b39791;
+  background: linear-gradient(180deg,rgba(179, 151, 145, 1) 0%, rgba(216, 185, 177, 1) 53%, rgba(224, 192, 184, 1) 100%);
   position: relative;
   width: 100%;
   height: auto;
@@ -74,10 +75,26 @@ span.schoolbell-regular {
   z-index: 1;
   position: relative;
 }
-.partmenu{
+.partmenu,
+.partmenu:visited{
   font-size: 23px;
   line-height: 25px;
-  margin: 0 12px 0 0;
+  margin: 0 14px 0 0;
+  text-decoration: none;
+  color: #a9a9a9;
+  transition:linear .5s;
+  position: relative;
+  padding: 8px 8px 12px 8px;
+}
+.partmenu:hover{
+  opacity: 1;
+  color: #000;
+  text-decoration: underline;
+}
+.partmenu.here{
+  opacity: 1;
+  color: #000;
+  text-decoration: underline;
 }
 .titlePrimario{
   display: block;
@@ -127,16 +144,15 @@ span.schoolbell-regular {
   box-sizing: border-box;
   padding: 60px;
   flex-wrap: wrap;
-  justify-content: space-between;
-  align-content: center;
-  align-items: flex-start;
+  justify-content: center;
+  align-items: stretch;
   border-radius: 20px 20px 0 0;
   background-color: #fdfdfd;
 }
 .everycard{
   display: block;
   width: 32%;
-  margin: 10px 0;
+  margin: 10px .5%;
   padding:0px;
   position: relative;
   box-sizing: border-box;
@@ -228,10 +244,137 @@ span.schoolbell-regular {
 .heart:hover{
   scale: 1.5;
 }
+.heart.actived{
+  color: #000;
+}
 /*CARD*/
+/*BIG HEART*/
+.bigHeart{
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    opacity: 0;
+    z-index: -1;
+}
+.bigHeart.animaHeart{
+    animation-name: animaHeart;
+    animation-duration: .8s;
+    animation-iteration-count: 1;
+}
+@keyframes animaHeart {
+  from {
+    width:100%;
+    height: 100%;
+    font-size: 900px;
+    opacity: 1;
+    z-index: 1;
+  }
+  to {
+    width:1px;
+    height:1px;
+    font-size: 0px;
+    opacity: 0;
+    z-index: 1;
+  }
 
-
-
+}
+/*BIG HEART*/
+@media screen and (max-width:945px){
+.bulletCard{
+  font-size: 14px;
+  line-height: 17px;
+}
+.titleCard{
+  font-size: 17px;
+  line-height: 20px;
+}
+}
+@media screen and (max-width:800px){
+.everycard{
+  width: 49%;
+  transform: perspective(0px) rotateY(0deg);
+}
+.vueltaCard{
+  transform: perspective(0px) rotateY(0deg);
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+}
+.heart{
+  bottom: unset;
+  top: 3px;
+}
+.picCard{
+  padding:  8px;
+}
+.everycard:hover .picCard{
+  transform: perspective(0px) rotateY(0deg);
+}
+.everycard:hover .vueltaCard{
+  transform: perspective(0px) rotateY(0deg);
+}
+.bulletCard{
+  width: 50%;
+}
+}
+@media screen and (max-width:630px){
+.tuSeleccion{
+  padding: 20px;
+}
+.picCard span{
+  position: absolute;
+  top: 8px;
+  left: 105%;
+}
+.everycard{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.picCard{
+  width: 35%;
+  display: flex;
+  box-sizing: border-box;
+}
+.vueltaCard{
+  width: 65%;
+  box-sizing: border-box;
+  backdrop-filter: unset;
+  padding: 40px 8px 8px 2%;
+  background-color: transparent;
+}
+}
+@media screen and (max-width:480px){
+.picCard{
+  width: 100%;
+  flex-wrap: wrap;
+}
+.picCard img{
+  max-width: 340px;
+  margin: 0 auto;
+}
+.picCard span{
+  position: relative;
+  left: 0;
+  margin: 0 0 20px 0;
+}
+.vueltaCard{
+  width: 100%;
+  padding: 25px;
+}
+}
 
 
 

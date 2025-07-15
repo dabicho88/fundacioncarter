@@ -28,7 +28,6 @@ function comienzaPeticion(){
         .then((laData) => laData.json())
         .then((losDatos) => {
             generaFichas(losDatos);
-            leerFavoritos(losDatos, jsonEnStorage);
         });
 }
 
@@ -37,7 +36,8 @@ function generaFichas(allData){
         everycard = document.createElement('div');
         everycard.classList.add('everycard'); 
         numHeart++;
-        everycard.innerHTML = `            
+        everycard.innerHTML = `   
+            <div class="heart" id="favorito${numHeart}" onclick="saveFavorito(this)">♥</div>         
             <div class="picCard"><span class="outfit-2">${oneDog.nombre}</span> <img src="${oneDog.foto}"> </div>
             <div class="vueltaCard">
                 <div class="bulletCard">Mi nombre es: <span class="titleCard">${oneDog.nombre}</span></div>
@@ -46,36 +46,50 @@ function generaFichas(allData){
                 <div class="bulletCard">Mi pelaje es: <span class="titleCard">${oneDog.pelaje}</span></div>
                 <div class="bulletCard">Tengo: <span class="titleCard">${oneDog.edad} años</span></div>
                 <div class="bulletCard">Localidad: <span class="titleCard">${oneDog.ciudad}</span></div>
-                <div class="heart" id="favorito${numHeart}" onclick="saveFavorito(this)">♥</div>
             </div>
         `;
         contenedorPrincipal.insertAdjacentElement('beforeend', everycard);
+        //Encontrando en Local Storage y pinta corazon si existe
+        encontrarStorage(numHeart);
     });
+
 }
 
 function saveFavorito(corasao){
+    //Obtiene el id de heart
     let idFavorito = corasao.getAttribute('id');
-    favorito = new Perro(
-            corasao.parentNode.previousElementSibling.children[1].getAttribute('src'),
-            corasao.parentNode.children[0].children[0].innerHTML,
-            corasao.parentNode.children[1].children[0].innerHTML,
-            corasao.parentNode.children[2].children[0].innerHTML,
-            corasao.parentNode.children[3].children[0].innerHTML,
-            corasao.parentNode.children[4].children[0].innerHTML,
-            corasao.parentNode.children[5].children[0].innerHTML
-        );
-    //Almacenando en local storage
+    //Favorito ON OF con el corazon
+    if(corasao.classList.contains('actived') !== true){
+        corasao.classList.add('actived');
+        document.querySelector('.bigHeart').classList.add('animaHeart');
+        setTimeout(() =>{
+            document.querySelector('.bigHeart').classList.remove('animaHeart')
+        },800)
+        //Genera un objeto con la clase Perro y Almacena favorito en Local
+        favorito = new Perro(
+                corasao.nextElementSibling.children[1].getAttribute('src'),
+                corasao.nextElementSibling.nextElementSibling.children[0].children[0].innerHTML,
+                corasao.nextElementSibling.nextElementSibling.children[1].children[0].innerHTML,
+                corasao.nextElementSibling.nextElementSibling.children[2].children[0].innerHTML,
+                corasao.nextElementSibling.nextElementSibling.children[3].children[0].innerHTML,
+                corasao.nextElementSibling.nextElementSibling.children[4].children[0].innerHTML,
+                corasao.nextElementSibling.nextElementSibling.children[5].children[0].innerHTML
+            );
     localStorage.setItem(idFavorito, JSON.stringify(favorito));
-    let objecObtenido = JSON.parse(localStorage.getItem("'"+idFavorito+"'"));
-    console.log(objecObtenido);
-}
-
-function leerFavoritos(){
-    for(yson=0;yson<localStorage.key.length;yson++){
-        console.log(localStorage.key[yson]);
+    }
+    else if(corasao.classList.contains('actived') == true){
+        corasao.classList.remove('actived');
+        localStorage.removeItem(idFavorito);
     }
 }
 
+function encontrarStorage(idNumerico){
+    for(f=0;f<localStorage.length;f++){
+        if(localStorage.key(f) == 'favorito'+idNumerico){
+            document.querySelector('#'+localStorage.key(f)).classList.add('actived');
+        }
+    }
+}
 
 comienzaPeticion();
 
