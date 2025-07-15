@@ -13,7 +13,7 @@ function obtenerStorageFavoritos(){
         keyStorage = localStorage.key(d);
         objetoAJson = JSON.parse(localStorage.getItem(keyStorage));
         divFavorito.innerHTML = `   
-            <div class="heart actived" id="${localStorage.key(d)}" onclick="eliminarConClick(this)">♥</div>         
+            <div class="heart actived" id="${localStorage.key(d)}" onclick="eliminarConClick(this)"></div>         
             <div class="picCard"><span class="outfit-2">${objetoAJson.nombre}</span> <img src="${objetoAJson.foto}"> </div>
             <div class="vueltaCard">
                 <div class="bulletCard">Mi nombre es: <span class="titleCard">${objetoAJson.nombre}</span></div>
