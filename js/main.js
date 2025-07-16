@@ -11,6 +11,7 @@ let ciudad;
 let favorito;
 let numHeart = 0;
 let jsonEnStorage;
+
 class Perro{
     constructor(foto, nombre, tamanno, color, pelaje, edad, ciudad){
         this.foto = foto;
@@ -28,7 +29,11 @@ function comienzaPeticion(){
         .then((laData) => laData.json())
         .then((losDatos) => {
             generaFichas(losDatos);
-        });
+            showBotonUp();
+        })
+        .catch((fail) => mostrarMensajeError())
+            //mostrarMensajeError();
+        .finally(() => confeti())
 }
 
 function generaFichas(allData){
@@ -89,6 +94,28 @@ function encontrarStorage(idNumerico){
             document.querySelector('#'+localStorage.key(f)).classList.add('actived');
         }
     }
+}
+
+function showBotonUp(){
+    window.addEventListener('scroll', () =>{
+        if(document.documentElement.scrollTop >= 800){
+            document.querySelector('.toUp').classList.add('visibol');
+        }
+        else{
+            document.querySelector('.toUp').classList.remove('visibol');
+        }
+    });
+}
+
+
+function mostrarMensajeError(fail){
+    if(fail == null){
+        contenedorPrincipal.innerHTML += '<div class="emptyFavo outfit-1">!Oh¡ Algo raro está pasando. Puedes hacer refrescar tu navegador o volver más tarde. Gracias y disculpa! <a onclick="location.reload()" class="outfit-2">Refrescar página</a><img src="img/emptyCarter.png"> </div>';
+    }
+}
+
+function confeti(){
+    
 }
 
 comienzaPeticion();
