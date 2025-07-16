@@ -295,10 +295,8 @@ span.schoolbell-regular {
 }
 @keyframes animaHeart {
   from {
-    width:70vw;
-    max-width:1000px;
-    height: 70vw;
-    max-width:1000px;
+    width: 800px;
+    height: 800px;
     font-size: 900px;
     opacity: 1;
     z-index: 1;
