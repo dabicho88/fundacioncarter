@@ -273,8 +273,8 @@ span.schoolbell-regular {
 /*CARD*/
 /*BIG HEART*/
 .bigHeart{
-    width: 100px;
-    height: 100px;
+    width: 1px;
+    height: 1px;
     overflow: hidden;
     position: fixed;
     display: flex;
@@ -290,7 +290,7 @@ span.schoolbell-regular {
     background-image: url(../img/heartBig.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 95%;
+    background-size: 95% 95%;
 }
 .bigHeart.animaHeart{
     animation-name: animaHeart;
@@ -299,10 +299,10 @@ span.schoolbell-regular {
 }
 @keyframes animaHeart {
   from {
-    width: 90%;
+    width: 60vw;
     max-width: 800px;
     max-height: 800px;
-    height: 90%;
+    height: 60vw;
     opacity: 1;
     z-index: 1;
     right: 0;
@@ -456,6 +456,7 @@ span.schoolbell-regular {
   height: 40px;
 }
 }
+/*
 @media screen and (max-width:480px){
 .picCard{
   width: 100%;
@@ -475,7 +476,7 @@ span.schoolbell-regular {
   padding: 25px;
 }
 }
-
+*/
 
 
 
