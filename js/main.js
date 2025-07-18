@@ -32,14 +32,14 @@ function comienzaPeticion(){
             showBotonUp();
         })
         .catch((fail) => mostrarMensajeError())
-            //mostrarMensajeError();
-        .finally(() => confeti())
+        .finally(() => emojisplosion())
 }
 
 function generaFichas(allData){
     allData.forEach(oneDog => {
         everycard = document.createElement('div');
         everycard.classList.add('everycard'); 
+        everycard.setAttribute('data-aos', 'zoom-out-right');
         numHeart++;
         everycard.innerHTML = `   
             <div class="heart" id="favorito${numHeart}" onclick="saveFavorito(this)"></div>         
@@ -110,14 +110,11 @@ function showBotonUp(){
 
 function mostrarMensajeError(fail){
     if(fail == null){
-        contenedorPrincipal.innerHTML += '<div class="emptyFavo outfit-1">!Oh¡ Algo raro está pasando. Puedes hacer refrescar tu navegador o volver más tarde. Gracias y disculpa! <a onclick="location.reload()" class="outfit-2">Refrescar página</a><img src="img/emptyCarter.png"> </div>';
+        contenedorPrincipal.innerHTML += '<div class="emptyFavo outfit-1">¡Oh! Algo raro está pasando. Puedes refrescar tu navegador o volver más tarde. Gracias y disculpa! <a onclick="location.reload()" class="outfit-2">Refrescar página</a><img src="img/emptyCarter.png"> </div>';
     }
 }
 
-function confeti(){
-    
-}
-
+AOS.init();
 comienzaPeticion();
 
 

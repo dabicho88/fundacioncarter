@@ -173,6 +173,10 @@ span.schoolbell-regular {
   position: relative;
   box-sizing: border-box;
   box-shadow: 0px 0px 20px -14px #000;
+  transition:linear .5s;
+}
+.everycard.fadeit{
+  opacity: 0;
 }
 .picCard{
   box-sizing: border-box;
@@ -261,7 +265,7 @@ span.schoolbell-regular {
   background-size: 95%;
 }
 .heart:hover{
-  scale: 1.5;
+  scale: 1.15;
 }
 .heart.actived{
   background-image: url(../img/heartBlack.png);
@@ -269,8 +273,8 @@ span.schoolbell-regular {
 /*CARD*/
 /*BIG HEART*/
 .bigHeart{
-    width: 1px;
-    height: 1px;
+    width: 100px;
+    height: 100px;
     overflow: hidden;
     position: fixed;
     display: flex;
@@ -295,18 +299,26 @@ span.schoolbell-regular {
 }
 @keyframes animaHeart {
   from {
-    width: 800px;
-    height: 800px;
-    font-size: 900px;
+    width: 90%;
+    max-width: 800px;
+    max-height: 800px;
+    height: 90%;
     opacity: 1;
     z-index: 1;
+    right: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
   }
   to {
     width:1px;
     height:1px;
-    font-size: 0px;
     opacity: 0;
     z-index: 1;
+    right: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
   }
 
 }

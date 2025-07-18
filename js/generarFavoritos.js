@@ -9,7 +9,7 @@ let elpapaEveryCard;
 function obtenerStorageFavoritos(){
 	for(d=0;d<localStorage.length;d++){
         divFavorito = document.createElement('div');
-        divFavorito.classList.add('everycard'); 
+        divFavorito.classList.add('everycard');
         keyStorage = localStorage.key(d);
         objetoAJson = JSON.parse(localStorage.getItem(keyStorage));
         divFavorito.innerHTML = `   
@@ -37,9 +37,11 @@ function eliminarConClick(corasao){
     localStorage.removeItem(idFavorito);
     chHeart = document.querySelector('#'+ idFavorito);
     elpapaEveryCard = chHeart.parentNode;
-    elpapaEveryCard.parentNode.removeChild(elpapaEveryCard);
-    console.log('si');
-    mensajeFavoritosVacio(document.querySelector('.everycard'));
+    elpapaEveryCard.classList.add('fadeit');
+    setTimeout(()=>{
+        elpapaEveryCard.parentNode.removeChild(elpapaEveryCard);
+        mensajeFavoritosVacio(document.querySelector('.everycard'));
+    },1000);
 }
 
 
