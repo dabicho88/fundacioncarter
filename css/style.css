@@ -534,6 +534,9 @@ span.schoolbell-regular {
   }
 
 }
+.invisibol{
+  display: none!important;
+}
 /*Confirmacion Mail*/
 @media screen and (max-width:945px){
 .bulletCard{
@@ -572,6 +575,11 @@ span.schoolbell-regular {
 }
 .bulletCard{
   width: 50%;
+}
+.correoSobre{
+  bottom: unset;
+  top: 3px;
+  right: 60px;
 }
 }
 @media screen and (max-width:630px){
@@ -617,27 +625,7 @@ span.schoolbell-regular {
   line-height: 36px;
 }
 }
-/*
-@media screen and (max-width:480px){
-.picCard{
-  width: 100%;
-  flex-wrap: wrap;
-}
-.picCard img{
-  max-width: 340px;
-  margin: 0 auto;
-}
-.picCard span{
-  position: relative;
-  left: 0;
-  margin: 0 0 20px 0;
-}
-.vueltaCard{
-  width: 100%;
-  padding: 25px;
-}
-}
-*/
+
 
 
 
