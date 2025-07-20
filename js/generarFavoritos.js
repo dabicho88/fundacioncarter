@@ -16,7 +16,8 @@ function obtenerStorageFavoritos(){
             divFavorito = document.createElement('div');
             divFavorito.classList.add('everycard');
             objetoAJson = JSON.parse(localStorage.getItem(keyStorage));
-            divFavorito.innerHTML = `   
+            divFavorito.innerHTML = `
+                <a href="registro.html" class="linksRegistro"></a>   
                 <div class="heart actived" id="${localStorage.key(d)}" onclick="eliminarConClick(this)"></div>         
                 <div class="picCard"><span class="outfit-2">${objetoAJson.nombre}</span> <img src="${objetoAJson.foto}"> </div>
                 <div class="vueltaCard">
@@ -87,6 +88,10 @@ function reconocer(){
             let sobres = document.querySelectorAll('.correoSobre');
             for(let sobre of sobres){
                 sobre.classList.remove('invisibol');   
+            };
+            let linksARegistro = document.querySelectorAll('.linksRegistro');
+            for(let linkRegis of linksARegistro){
+                linkRegis.classList.add('invisibol');   
             };
         }
     }
