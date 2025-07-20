@@ -84,8 +84,10 @@ function reconocer(){
                 <a class="partmenu">Hola, ${usuarioReconocido}</a>
             `;
             document.querySelector('h3').innerHTML = '';
-            let sobre = document.querySelector('.correoSobre');
-            sobre.classList.remove('invisibol');
+            let sobres = document.querySelectorAll('.correoSobre');
+            for(let sobre of sobres){
+                sobre.classList.remove('invisibol');   
+            };
         }
     }
 }
