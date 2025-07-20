@@ -11,6 +11,8 @@ let ciudad;
 let favorito;
 let numHeart = 0;
 let jsonEnStorage;
+let usuarioReconocido;
+const botonRegistro = document.querySelector('[href="registro.html"]');
 
 class Perro{
     constructor(foto, nombre, tamanno, color, pelaje, edad, ciudad){
@@ -32,7 +34,7 @@ function comienzaPeticion(){
             showBotonUp();
         })
         .catch((fail) => mostrarMensajeError())
-        .finally(() => emojisplosion())
+        .finally(() => document.querySelector('.titleTerciario').classList.remove('invisibol'))
 }
 
 function generaFichas(allData){
@@ -113,6 +115,22 @@ function mostrarMensajeError(fail){
         contenedorPrincipal.innerHTML += '<div class="emptyFavo outfit-1">¡Oh! Algo raro está pasando. Puedes refrescar tu navegador o volver más tarde. Gracias y disculpa! <a onclick="location.reload()" class="outfit-2">Refrescar página</a><img src="img/emptyCarter.png"> </div>';
     }
 }
+
+function reconocer(){
+    for(us=0;us<localStorage.length;us++){
+        if(localStorage.key(us).includes('usuario') === true){
+            usuarioReconocido = localStorage.getItem(localStorage.key(us));
+            botonRegistro.parentNode.removeChild(botonRegistro);
+            document.querySelector('header').innerHTML += `
+                <a class="partmenu">Hola, ${usuarioReconocido}</a>
+            `;
+            document.querySelector('h3').innerHTML = '';
+        }
+    }
+}
+
+reconocer();
+
 
 AOS.init();
 comienzaPeticion();

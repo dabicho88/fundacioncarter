@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regístrate - Fundación Carter</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap" rel="stylesheet">
+<meta name="referrer" content="no-referrer-when-downgrade">
+</head>
+<body class="outfit-1 ">
+  <div class="main">
+    <section class="cabezal">
+      <header class="titleSecundario source-serif-1">
+        <a class="partmenu" href="index.html">𓃡 Colección</a>
+        <a class="partmenu" href="favoritos.html"><img src="img/heartBlack.png" alt="Corazon Negro"> Favoritos</a>
+        <a class="partmenu here" href="registro.html"><img src="img/sobre.png" alt="Registra tu mail en fundacion Carter"> Regístrate</a>
+      </header>
+    </section>
+
+
+    <section class="tuSeleccion">
+      <h1 class="titlePrimario source-serif-2">Obtén más información!</h1>
+      <h3 class="titleTerciario source-serif-1">Sólo tienes que dejarnos tu correo.</h3>
+      <form class="registroCarters">
+        <input type="text" name="registroCarters" class="outfit-2" placeholder="usuario@dominio.com" oninput="validando();">
+        <div class="botonEnviar invisibol" name="registroCarters" onclick="registro();">Registrarme</div>
+        <div class="errorcito outfit-2 invisibol">¡Ups! parece que no es válido tu correo</div>
+        <div class="errorcito2 outfit-2 invisibol">Este correo ya está registrado</div>
+      </form>
+    <div class="emptyFavo"><img src="img/registroCarter.png"> </div>
+    </section>
+
+  </div>
+
+<script src="js/registro.js" defer></script>
+<script async src="https://unpkg.com/emojisplosion/lib/easy.js"></script>
+</body>
+</html>
+
